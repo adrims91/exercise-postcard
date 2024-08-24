@@ -42,3 +42,10 @@ button {
 	background-color: skyblue;
 	padding: 5px;
 }
+li {
+    text-decoration: underline;
+    color: grey;
+}
+ul {
+    list-style-type: none;
+}
